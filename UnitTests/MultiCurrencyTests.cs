@@ -1,4 +1,5 @@
 using System;
+using MultiCurrency;
 using Xunit;
 
 namespace UnitTests
@@ -6,8 +7,11 @@ namespace UnitTests
   public class MultiCurrencyTests
   {
     [Fact]
-    public void Test1()
+    public void testMultiplication()
     {
+      Dollar five = new Dollar(5);
+      five.times(2);
+      Assert.Equal(10, five.amount);
     }
   }
 }
