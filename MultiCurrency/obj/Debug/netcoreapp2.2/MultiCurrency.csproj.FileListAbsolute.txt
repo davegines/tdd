@@ -1,0 +1,9 @@
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/bin/Debug/netcoreapp2.2/MultiCurrency.deps.json
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/bin/Debug/netcoreapp2.2/MultiCurrency.dll
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/bin/Debug/netcoreapp2.2/MultiCurrency.pdb
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.csprojAssemblyReference.cache
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.csproj.CoreCompileInputs.cache
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.AssemblyInfoInputs.cache
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.AssemblyInfo.cs
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.dll
+/Users/davegines/RiderProjects/TddByExample/MultiCurrency/obj/Debug/netcoreapp2.2/MultiCurrency.pdb

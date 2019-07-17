@@ -1,0 +1,17 @@
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.deps.json
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.runtimeconfig.json
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.runtimeconfig.dev.json
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.pdb
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/MultiCurrency.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/bin/Debug/netcoreapp2.2/MultiCurrency.pdb
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csprojAssemblyReference.cache
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csproj.CoreCompileInputs.cache
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.AssemblyInfoInputs.cache
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.AssemblyInfo.cs
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csproj.CopyComplete
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.dll
+/Users/davegines/RiderProjects/TddByExample/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.pdb
