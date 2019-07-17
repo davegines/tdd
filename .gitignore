@@ -1,2 +1,5 @@
 TddByExample.sln.DotSettings.user
 .idea/
+*.dll
+*.pdb
+*.cache
